@@ -1,0 +1,2 @@
+/usr/bin/ar qc libseg-lib.a  CMakeFiles/seg-lib.dir/SemiGlobalMatching.cpp.o
+/usr/bin/ranlib libseg-lib.a

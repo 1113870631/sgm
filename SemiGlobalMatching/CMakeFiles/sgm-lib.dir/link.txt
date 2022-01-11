@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsgm-lib.a  CMakeFiles/sgm-lib.dir/sgm_util.cpp.o
+/usr/bin/ranlib libsgm-lib.a
